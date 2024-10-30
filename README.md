@@ -1,4 +1,4 @@
-# Restaurant-Table-Reservation
+# Multiple-Restaurant-Table-Reservation
 A restaurant table booking system, by which customer can book a table and can order food menu for their meal, from any registered restaurant of this system. 
 For this system there are two types of user. 
 First one is restaurant authority, at first they have to register to this system and have to provide their food menu and price for the menu. 
